@@ -1,0 +1,37 @@
+# Insurance Data Analysis Dashboard | Power BI
+
+## Project Overview
+Developed an interactive Insurance Data Analysis Dashboard using Microsoft Power BI to analyze insurance policies, premiums, coverage amounts, and claims.
+
+## Key Features
+- Active and Inactive Policy Analysis
+- Total Premium Amount Analysis
+- Claim Amount Analysis
+- Claims by Claim Status
+- Claim Amount by Age Group
+- Policy Type Analysis
+- Coverage Amount Analysis
+
+## Tools & Technologies
+- Microsoft Power BI
+- Power Query
+- DAX
+- Data Visualization
+
+## Dashboard Components
+- KPI Cards
+- Donut Chart
+- Bar Chart
+- Line Chart
+- Ribbon Chart
+- Interactive Slicers
+- Detailed Insurance Data Table
+
+## Business Objectives
+- Monitor insurance policy performance.
+- Analyze claim distribution and status.
+- Understand premium and coverage trends.
+- Explore customer and policy information.
+
+## Project File
+Insurance.pbix
